@@ -27,7 +27,7 @@ import pageObjectsPackage.DealsPage;
 import pageObjectsPackage.LoginPage;
 import pageObjectsPackage.TasksPage;
 
-//Run as Suite for parallel execution
+//Run as Suite in xml for parallel execution
 public class ParallelExecutionFreeCRM {
 	
 	@BeforeClass
